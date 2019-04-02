@@ -1,0 +1,16 @@
+.footerContainer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(44,44,44);
+    color: rgb(118,118,118);
+    span {
+        border-top: 1px solid rgb(118,118,118);
+        padding: 10px 80px;
+        font-size: 0.8rem;
+    }
+}
